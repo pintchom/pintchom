@@ -1,6 +1,6 @@
 ## Wassup, I'm Max. I like to code and stuff 👋
 
-## <a href="[[https://www.linkedin.com/in/dhanushkamadushan/](https://www.linkedin.com/in/maxpintchouk/)](https://www.linkedin.com/in/maxpintchouk/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/maxpintchouk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pintchom&layout=donut&theme=radical)](https://github.com/pintchom/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pintchom&theme=tokyonight" alt="mystreak"/>
