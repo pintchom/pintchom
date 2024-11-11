@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wassup, I'm Max. I like to code and stuff 👋
 
 <!--
 **pintchom/pintchom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
