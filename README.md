@@ -3,6 +3,7 @@
 ## LinkedIn: https://www.linkedin.com/in/maxpintchouk/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pintchom&layout=donut&theme=radical)](https://github.com/pintchom/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pintchom&theme=tokyonight" alt="mystreak"/>
 <!--
 **pintchom/pintchom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
