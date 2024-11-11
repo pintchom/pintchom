@@ -1,7 +1,6 @@
 ## Wassup, I'm Max. I like to code and stuff 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pintchom&layout=pie)](https://github.com/pintchom/github-readme-stats)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pintchom&layout=donut)](https://github.com/pintchom/github-readme-stats)<!--
 **pintchom/pintchom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
