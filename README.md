@@ -1,4 +1,4 @@
-## Wassup, I'm Max. I like to code and stuff 👋
+## I'm Max 👋
 ## Junior at Boston College studying Computer Science and Information Systems
 ## Founder at Synopto (synopto.xyz)
 
