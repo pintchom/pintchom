@@ -1,5 +1,5 @@
 ## I'm Max 👋
-## Junior at Boston College studying Computer Science and Information Systems
+## Boston College student studying Computer Science and Information Systems
 ## CTO at Narrative, Founder at Synopto
 
 <a href="https://www.linkedin.com/in/maxpintchouk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
