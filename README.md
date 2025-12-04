@@ -1,7 +1,3 @@
-## I'm Max 👋
-## Boston College student studying Computer Science and Information Systems
-## CTO at Narrative
-
 <a href="https://www.linkedin.com/in/maxpintchouk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pintchom&layout=donut&theme=radical)](https://github.com/pintchom/github-readme-stats)
